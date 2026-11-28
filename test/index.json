@@ -8,6 +8,7 @@
 	"interpolation": "Interpolation",
 	"modifications": "Color modification",
 	"contrast": "Contrast",
+	"luminance": "Luminance",
 	"angles": "Angles",
 	"adapt": "Chromatic adaptation",
 	"multiply_matrices": "Matrix multiplication",
